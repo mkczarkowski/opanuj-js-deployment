@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/opanuj-js-deployment/static/css/main.b100e6da.chunk.css",
-    "main.js": "/opanuj-js-deployment/static/js/main.69924298.chunk.js",
-    "main.js.map": "/opanuj-js-deployment/static/js/main.69924298.chunk.js.map",
+    "main.js": "/opanuj-js-deployment/static/js/main.352301b0.chunk.js",
+    "main.js.map": "/opanuj-js-deployment/static/js/main.352301b0.chunk.js.map",
     "runtime-main.js": "/opanuj-js-deployment/static/js/runtime-main.2f3b4053.js",
     "runtime-main.js.map": "/opanuj-js-deployment/static/js/runtime-main.2f3b4053.js.map",
     "static/js/2.f8a9237c.chunk.js": "/opanuj-js-deployment/static/js/2.f8a9237c.chunk.js",
     "static/js/2.f8a9237c.chunk.js.map": "/opanuj-js-deployment/static/js/2.f8a9237c.chunk.js.map",
     "index.html": "/opanuj-js-deployment/index.html",
-    "precache-manifest.4681215b13581f276de06a741be7c260.js": "/opanuj-js-deployment/precache-manifest.4681215b13581f276de06a741be7c260.js",
+    "precache-manifest.bb1e2bbe3d45117ad70e56f7aeac5efb.js": "/opanuj-js-deployment/precache-manifest.bb1e2bbe3d45117ad70e56f7aeac5efb.js",
     "service-worker.js": "/opanuj-js-deployment/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/opanuj-js-deployment/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/opanuj-js-deployment/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2f3b4053.js",
     "static/js/2.f8a9237c.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.69924298.chunk.js"
+    "static/js/main.352301b0.chunk.js"
   ]
 }

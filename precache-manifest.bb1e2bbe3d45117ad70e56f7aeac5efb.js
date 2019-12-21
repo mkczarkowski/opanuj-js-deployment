@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d6c819e52df1076edc7859688a348d7",
+    "revision": "aff37938e2061d112743d22754a537e6",
     "url": "/opanuj-js-deployment/index.html"
   },
   {
-    "revision": "5654b1daecd8694b91b0",
+    "revision": "72b6cffff5154b87bd47",
     "url": "/opanuj-js-deployment/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/opanuj-js-deployment/static/js/2.f8a9237c.chunk.js"
   },
   {
-    "revision": "5654b1daecd8694b91b0",
-    "url": "/opanuj-js-deployment/static/js/main.69924298.chunk.js"
+    "revision": "72b6cffff5154b87bd47",
+    "url": "/opanuj-js-deployment/static/js/main.352301b0.chunk.js"
   },
   {
     "revision": "8a1118e4a182ac504fb1",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/opanuj-js-deployment/precache-manifest.4681215b13581f276de06a741be7c260.js"
+  "/opanuj-js-deployment/precache-manifest.bb1e2bbe3d45117ad70e56f7aeac5efb.js"
 );
 
 self.addEventListener('message', (event) => {
